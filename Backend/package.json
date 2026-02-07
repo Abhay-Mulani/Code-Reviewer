@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "@google/genai": "^1.9.0",
+<<<<<<< HEAD
     "@google/generative-ai": "^0.24.1",
     "cors": "^2.8.6",
     "dotenv": "^17.2.4",
@@ -19,5 +20,8 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.11"
+=======
+    "dotenv": "^17.2.0"
+>>>>>>> 957c8dbfa5563ef8319c133b2adb84ba0a94b4b4
   }
 }
